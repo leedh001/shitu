@@ -36,6 +36,8 @@
 
 ### 3.1 模块划分
 
+**界面部分使用了开源库https://github.com/Wanderson-Magalhaes/PyOneDark_Qt_Widgets_Modern_GUI**
+
 | 层次 | 模块 | 职责 |
 |------|------|------|
 | 入口 | `vl_gui.py` | 主窗口、工作区加载、搜索交互、索引进度轮询 |
